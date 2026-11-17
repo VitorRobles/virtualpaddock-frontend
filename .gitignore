@@ -1,0 +1,13 @@
+# Generated and local files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+vendor/
+node_modules/
+
+uploads/perfis/*
+!uploads/perfis/.gitkeep
