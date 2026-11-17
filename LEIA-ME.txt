@@ -3,4 +3,3 @@ VIRTUAL PADDOCK - front-end (sem banco de dados)
 2. Abra http://localhost/virtualpaddock/
 3. Teste: marcus@email.com / 123456 (piloto) ou org@email.com / 123456 (organizador)
 Os dados ficam na sessão do navegador (cache temporário). Em Configurações há "Restaurar dados de demonstração".
-Visual inspirado no protótipo Garagem (paleta azul-marinho e laranja, Barlow Condensed + DM Sans). Sem imagens de terceiros.
